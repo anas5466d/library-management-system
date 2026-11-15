@@ -13,5 +13,5 @@
 | 9 | Validation and custom exceptions | Done | LendingError |
 | 10 | Testing all menu options | Done | |
 | 11 | requirements.txt (stdlib only, so empty) | Done | |
-| 12 | Screenshots and printed report | To do (by student) | |
-| 13 | ZIP (no venv) named StudentID_Assignment2.zip | To do (by student) | |
+| 12 | Screenshots and printed report | To do done | |
+| 13 | ZIP (no venv) named StudentID_Assignment2.zip | To do done | |
